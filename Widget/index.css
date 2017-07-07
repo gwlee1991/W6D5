@@ -1,0 +1,10 @@
+.current {
+  font-family: 'Kdam Thmor', cursive;
+  color: white;
+}
+
+#root {
+  background-image: url("http://cdn.akc.org/corgi-8.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
